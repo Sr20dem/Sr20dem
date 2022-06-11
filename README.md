@@ -3,7 +3,7 @@ My nodes:
 - Defund: https://defund.explorers.guru/validator/defundvaloper1as52ar75vq3jz0fmrnfkx0n2ancm0nhhf593mk
 - Uptick: https://explorer.testnet.uptick.network/uptick-network-testnet/staking/uptickvaloper1eddj4c9uh2l76llatzdtvmpdcq07lqdne6ufc0
 - KYVE https://kyve.explorers.guru/validator/kyvevaloper1kud7arkc2u6kjnjtmlcp2l4yyxat0uu4v3jn7d
-- SEI https://sei.explorers.guru/validator/cosmosvaloper1f89ckgmcrks6qjatg4pap2r0xyg2aq69j92h6r
+- SEI [https://sei.explorers.guru/validator/seivaloper1f89ckgmcrks6qjatg4pap2r0xyg2aq69yj763p](https://sei.explorers.guru/validator/seivaloper1f89ckgmcrks6qjatg4pap2r0xyg2aq69yj763p)
 - DWS https://dws.explorers.guru/validator/dewebvaloper12n2lvj3z56gxf5dslxyj3mc23k8c7cdg9sj5ca
 - Kujira https://kujira.explorers.guru/account/kujira1w09r75d6qk9mvl0tvqfqldpnhrlqjhf36nd0yh
 
