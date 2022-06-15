@@ -5,7 +5,7 @@ My nodes:
 - KYVE https://kyve.explorers.guru/validator/kyvevaloper1kud7arkc2u6kjnjtmlcp2l4yyxat0uu4v3jn7d
 - SEI [https://sei.explorers.guru/validator/seivaloper1f89ckgmcrks6qjatg4pap2r0xyg2aq69yj763p](https://sei.explorers.guru/validator/seivaloper1f89ckgmcrks6qjatg4pap2r0xyg2aq69yj763p)
 - DWS https://dws.explorers.guru/validator/dewebvaloper12n2lvj3z56gxf5dslxyj3mc23k8c7cdg9sj5ca
-- Kujira https://kujira.explorers.guru/account/kujira1w09r75d6qk9mvl0tvqfqldpnhrlqjhf36nd0yh
+- Kujira [https://kujira.explorers.guru/account/kujiravaloper1w09r75d6qk9mvl0tvqfqldpnhrlqjhf3ax7ucc](https://kujira.explorers.guru/validator/kujiravaloper1w09r75d6qk9mvl0tvqfqldpnhrlqjhf3ax7ucc)
 
 
 <!---
