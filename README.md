@@ -6,7 +6,7 @@ My nodes. Testnets:
 - SEI [https://sei.explorers.guru/validator/seivaloper1fs76s678wqr57cfgksamvxpu7rljnha4eetmqw](https://sei.explorers.guru/validator/seivaloper1fs76s678wqr57cfgksamvxpu7rljnha4eetmqw)
 - DWS https://dws.explorers.guru/validator/dewebvaloper12n2lvj3z56gxf5dslxyj3mc23k8c7cdg9sj5ca
 - Sui [http://164.215.102.85:9000](http://164.215.102.85:9000)
-- Aptos [http://164.215.102.85:80](http://164.215.102.85:80)
+- Stride [https://poolparty.stride.zone/STRIDE/staking/stridevaloper1pflyn9e2wjjgu08wzx0prf08ew8t0mx8vlzkz2](https://poolparty.stride.zone/STRIDE/staking/stridevaloper1pflyn9e2wjjgu08wzx0prf08ew8t0mx8vlzkz2)
 
 Mainnets:
 - Bitsong: [https://explorebitsong.com/validators/bitsongvaloper1tfvasglxne4ftuxuedxhtfsgd2x6dwggrmc5y9](https://explorebitsong.com/validators/bitsongvaloper1tfvasglxne4ftuxuedxhtfsgd2x6dwggrmc5y9)
