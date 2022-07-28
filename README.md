@@ -8,6 +8,7 @@ My nodes. Testnet:
 - Sui [http://77.83.92.238:9000](http://77.83.92.238:9000)
 - Stride [https://stride.explorers.guru/validator/stridevaloper1pflyn9e2wjjgu08wzx0prf08ew8t0mx8vlzkz2](https://stride.explorers.guru/validator/stridevaloper1pflyn9e2wjjgu08wzx0prf08ew8t0mx8vlzkz2)
 - Crowd Control [https://explorers.acloud.pp.ua/cardchain/staking/ccvaloper18nyh27lwp5dp8j396srrvq52hufeu9vst2fs7g](https://explorers.acloud.pp.ua/cardchain/staking/ccvaloper18nyh27lwp5dp8j396srrvq52hufeu9vst2fs7g)
+- Bundlr Devnet - XMVhzn5Bx7YvVIgHY-7-ytsB5bT1WRA6pD-PiRFlhm4
 
 Mainnet:
 - Bitsong: [https://explorebitsong.com/validators/bitsongvaloper1tfvasglxne4ftuxuedxhtfsgd2x6dwggrmc5y9](https://explorebitsong.com/validators/bitsongvaloper1tfvasglxne4ftuxuedxhtfsgd2x6dwggrmc5y9)
