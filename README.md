@@ -9,9 +9,10 @@ My nodes. Testnet:
 - Stride [https://stride.explorers.guru/validator/stridevaloper1pflyn9e2wjjgu08wzx0prf08ew8t0mx8vlzkz2](https://stride.explorers.guru/validator/stridevaloper1pflyn9e2wjjgu08wzx0prf08ew8t0mx8vlzkz2)
 - Crowd Control [https://explorers.acloud.pp.ua/cardchain/staking/ccvaloper18nyh27lwp5dp8j396srrvq52hufeu9vst2fs7g](https://explorers.acloud.pp.ua/cardchain/staking/ccvaloper18nyh27lwp5dp8j396srrvq52hufeu9vst2fs7g)
 - Bundlr Devnet - XMVhzn5Bx7YvVIgHY-7-ytsB5bT1WRA6pD-PiRFlhm4
+Near Stake Wars Episode 3 - m256.factory.shardnet.near
 
 Mainnet:
-- Bitsong: [https://explorebitsong.com/validators/bitsongvaloper1tfvasglxne4ftuxuedxhtfsgd2x6dwggrmc5y9](https://explorebitsong.com/validators/bitsongvaloper1tfvasglxne4ftuxuedxhtfsgd2x6dwggrmc5y9)
+- Bitsong: [https://www.mintscan.io/bitsong/validators/bitsongvaloper1tfvasglxne4ftuxuedxhtfsgd2x6dwggrmc5y9](https://www.mintscan.io/bitsong/validators/bitsongvaloper1tfvasglxne4ftuxuedxhtfsgd2x6dwggrmc5y9)
 
 <!---
 Sr20dem/Sr20dem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
