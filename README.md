@@ -1,6 +1,5 @@
 👋 Hi, I’m @Sr20de. I’m interested in crypto and validating.
 My nodes. Testnet:
-- Defund: https://defund.explorers.guru/validator/defundvaloper1as52ar75vq3jz0fmrnfkx0n2ancm0nhhf593mk
 - Uptick: https://explorer.testnet.uptick.network/uptick-network-testnet/staking/uptickvaloper1eddj4c9uh2l76llatzdtvmpdcq07lqdne6ufc0
 - KYVE https://kyve.explorers.guru/validator/kyvevaloper1kud7arkc2u6kjnjtmlcp2l4yyxat0uu4v3jn7d
 - SEI [https://sei.explorers.guru/validator/seivaloper1g7mdkyr9uplthzntapjy4tfg3jjfzvcufxg2ex](https://sei.explorers.guru/validator/seivaloper1g7mdkyr9uplthzntapjy4tfg3jjfzvcufxg2ex)
