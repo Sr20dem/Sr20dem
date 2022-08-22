@@ -10,6 +10,9 @@ My nodes. Testnet:
 - Bundlr Devnet - XMVhzn5Bx7YvVIgHY-7-ytsB5bT1WRA6pD-PiRFlhm4
 - Near Stake Wars Episode 3 - m256.factory.shardnet.near
 - Massa - A1256KPpy8Q9KrXLgstQXj4DxdFjMGciZ42uHChyJT9KwHE7WgYb
+- Haqq [https://testnet.ping.pub/haqq/staking/haqqvaloper1tyu66q24as90wyhsk8wcgsg5dkjnmfvlzy7e5z](https://testnet.ping.pub/haqq/staking/haqqvaloper1tyu66q24as90wyhsk8wcgsg5dkjnmfvlzy7e5z)
+- Arable [https://explorer.nodestake.top/acre-testnet/staking/acrevaloper10e09uwkkn7a0ggzepqvhjc2c8faqqe8kft7u3n](https://explorer.nodestake.top/acre-testnet/staking/acrevaloper10e09uwkkn7a0ggzepqvhjc2c8faqqe8kft7u3n)
+- Source [https://explorer.testnet.sourceprotocol.io/source/staking/sourcevaloper1dkuv0w6sv0at60e7m0cs0zl2ghxqsvts659rfu](https://explorer.testnet.sourceprotocol.io/source/staking/sourcevaloper1dkuv0w6sv0at60e7m0cs0zl2ghxqsvts659rfu)
 
 Mainnet:
 - Bitsong: [https://www.mintscan.io/bitsong/validators/bitsongvaloper1tfvasglxne4ftuxuedxhtfsgd2x6dwggrmc5y9](https://www.mintscan.io/bitsong/validators/bitsongvaloper1tfvasglxne4ftuxuedxhtfsgd2x6dwggrmc5y9)
