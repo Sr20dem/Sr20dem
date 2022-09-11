@@ -4,7 +4,6 @@ Since the beginning of 2022, I have been interested in nodes and validation.
 ## Testnet:
 
 - KYVE https://kyve.explorers.guru/validator/kyvevaloper1kud7arkc2u6kjnjtmlcp2l4yyxat0uu4v3jn7d
-- DWS https://dws.explorers.guru/validator/dewebvaloper12n2lvj3z56gxf5dslxyj3mc23k8c7cdg9sj5ca
 - Crowd Control [https://explorers.acloud.pp.ua/cardchain/staking/ccvaloper18nyh27lwp5dp8j396srrvq52hufeu9vst2fs7g](https://explorers.acloud.pp.ua/cardchain/staking/ccvaloper18nyh27lwp5dp8j396srrvq52hufeu9vst2fs7g)
 - Bundlr Devnet - XMVhzn5Bx7YvVIgHY-7-ytsB5bT1WRA6pD-PiRFlhm4
 - Massa - A1256KPpy8Q9KrXLgstQXj4DxdFjMGciZ42uHChyJT9KwHE7WgYb
@@ -15,6 +14,7 @@ Since the beginning of 2022, I have been interested in nodes and validation.
 - Lukso [https://stats.execution.l16.lukso.network/](https://stats.execution.l16.lukso.network/)
 - Uptick: (Phase 1 ended) https://explorer.testnet.uptick.network/uptick-network-testnet/staking/uptickvaloper1eddj4c9uh2l76llatzdtvmpdcq07lqdne6ufc0
 - Stride (Ended) [https://stride.explorers.guru/validator/stridevaloper1pflyn9e2wjjgu08wzx0prf08ew8t0mx8vlzkz2](https://stride.explorers.guru/validator/stridevaloper1pflyn9e2wjjgu08wzx0prf08ew8t0mx8vlzkz2)
+- DWS (Phase 1 ended): https://dws.explorers.guru/validator/dewebvaloper12n2lvj3z56gxf5dslxyj3mc23k8c7cdg9sj5ca
 
 
 ## Mainnet:
