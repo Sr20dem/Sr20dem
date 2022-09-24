@@ -1,7 +1,7 @@
 👋 Hi, my name is Dmitry (Sr20de). I am individual POS/POW validator. I have a lot of experience as webmaster for more than 5 years.
 Since the beginning of 2022, I have been interested in nodes and validation.
 
-## Testnet:
+## Testnets:
 
 - KYVE https://kyve.explorers.guru/validator/kyvevaloper1kud7arkc2u6kjnjtmlcp2l4yyxat0uu4v3jn7d
 - DWS [https://explorers.acloud.pp.ua/cardchain/staking/ccvaloper18nyh27lwp5dp8j396srrvq52hufeu9vst2fs7g](https://dws.explorers.guru/validator/dewebvaloper12n2lvj3z56gxf5dslxyj3mc23k8c7cdg9sj5ca)
@@ -13,6 +13,7 @@ Since the beginning of 2022, I have been interested in nodes and validation.
 - Source [https://explorer.testnet.sourceprotocol.io/source/staking/sourcevaloper1dkuv0w6sv0at60e7m0cs0zl2ghxqsvts659rfu](https://explorer.testnet.sourceprotocol.io/source/staking/sourcevaloper1dkuv0w6sv0at60e7m0cs0zl2ghxqsvts659rfu)
 - Gear - Sr20de - [https://telemetry.gear-tech.io/#list/0x6f022bd353c56b3e441507e1173601fd9dc0fb7547e6a95bbaf9b21f311bcab6](https://telemetry.gear-tech.io/#list/0x6f022bd353c56b3e441507e1173601fd9dc0fb7547e6a95bbaf9b21f311bcab6)
 - PEAQ - Sr20de - [http://telemetry.sr20de.xyz/#/0xf496028047ba9e394a575e5d2d93828360d35a4c2dade61efff0de309021909f](http://telemetry.sr20de.xyz/#/0xf496028047ba9e394a575e5d2d93828360d35a4c2dade61efff0de309021909f)
+- Tidechain - Sr20de - [https://telemetry.tidefi.io](https://telemetry.tidefi.io)
 - Lukso [https://stats.execution.l16.lukso.network/](https://stats.execution.l16.lukso.network/)
 - Uptick: (Phase 1 ended) https://explorer.testnet.uptick.network/uptick-network-testnet/staking/uptickvaloper1eddj4c9uh2l76llatzdtvmpdcq07lqdne6ufc0
 - Stride (Ended) [https://stride.explorers.guru/validator/stridevaloper1pflyn9e2wjjgu08wzx0prf08ew8t0mx8vlzkz2](https://stride.explorers.guru/validator/stridevaloper1pflyn9e2wjjgu08wzx0prf08ew8t0mx8vlzkz2)
@@ -25,6 +26,9 @@ Since the beginning of 2022, I have been interested in nodes and validation.
 ## IBC Relayers:
 - IBC-Relayer Tgrade <-> Osmo
 - IBC-Relayer Bitsong <-> Osmo
+
+## Sites:
+http://telemetry.sr20de.xyz
 
 <!---
 Sr20dem/Sr20dem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
