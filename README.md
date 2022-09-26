@@ -15,6 +15,7 @@ Since the beginning of 2022, I have been interested in nodes and validation.
 - PEAQ - Sr20de - [http://telemetry.sr20de.xyz/#/0xf496028047ba9e394a575e5d2d93828360d35a4c2dade61efff0de309021909f](http://telemetry.sr20de.xyz/#/0xf496028047ba9e394a575e5d2d93828360d35a4c2dade61efff0de309021909f)
 - Tidechain - Sr20de - [https://telemetry.tidefi.io](https://telemetry.tidefi.io)
 - Lukso [https://stats.execution.l16.lukso.network/](https://stats.execution.l16.lukso.network/)
+- Nois https://testnet.ping.pub/nois/staking/noisvaloper1xt47alla8xrwy4e2r4gv0uey4q9uf2j8a0jghl
 - Uptick: (Phase 1 ended) https://explorer.testnet.uptick.network/uptick-network-testnet/staking/uptickvaloper1eddj4c9uh2l76llatzdtvmpdcq07lqdne6ufc0
 - Stride (Ended) [https://stride.explorers.guru/validator/stridevaloper1pflyn9e2wjjgu08wzx0prf08ew8t0mx8vlzkz2](https://stride.explorers.guru/validator/stridevaloper1pflyn9e2wjjgu08wzx0prf08ew8t0mx8vlzkz2)
 
