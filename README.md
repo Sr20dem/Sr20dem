@@ -8,7 +8,6 @@ Since the beginning of 2022, I have been interested in nodes and validation.
 - Crowd Control [https://explorers.acloud.pp.ua/cardchain/staking/ccvaloper18nyh27lwp5dp8j396srrvq52hufeu9vst2fs7g](https://explorers.acloud.pp.ua/cardchain/staking/ccvaloper18nyh27lwp5dp8j396srrvq52hufeu9vst2fs7g)
 - Bundlr Devnet - XMVhzn5Bx7YvVIgHY-7-ytsB5bT1WRA6pD-PiRFlhm4
 - Massa - A1256KPpy8Q9KrXLgstQXj4DxdFjMGciZ42uHChyJT9KwHE7WgYb
-- Haqq [https://testnet.ping.pub/haqq/staking/haqqvaloper1tyu66q24as90wyhsk8wcgsg5dkjnmfvlzy7e5z](https://testnet.ping.pub/haqq/staking/haqqvaloper1tyu66q24as90wyhsk8wcgsg5dkjnmfvlzy7e5z)
 - Arable [https://explorer.nodestake.top/acre-testnet/staking/acrevaloper10e09uwkkn7a0ggzepqvhjc2c8faqqe8kft7u3n](https://explorer.nodestake.top/acre-testnet/staking/acrevaloper10e09uwkkn7a0ggzepqvhjc2c8faqqe8kft7u3n)
 - Source [https://explorer.testnet.sourceprotocol.io/source/staking/sourcevaloper1dkuv0w6sv0at60e7m0cs0zl2ghxqsvts659rfu](https://explorer.testnet.sourceprotocol.io/source/staking/sourcevaloper1dkuv0w6sv0at60e7m0cs0zl2ghxqsvts659rfu)
 - Gear - Sr20de - [https://telemetry.gear-tech.io/#list/0x6f022bd353c56b3e441507e1173601fd9dc0fb7547e6a95bbaf9b21f311bcab6](https://telemetry.gear-tech.io/#list/0x6f022bd353c56b3e441507e1173601fd9dc0fb7547e6a95bbaf9b21f311bcab6)
