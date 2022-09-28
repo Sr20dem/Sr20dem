@@ -21,7 +21,6 @@ Since the beginning of 2022, I have been interested in nodes and validation.
 
 
 ## Mainnet:
-- Bitsong: [https://www.mintscan.io/bitsong/validators/bitsongvaloper1tfvasglxne4ftuxuedxhtfsgd2x6dwggrmc5y9](https://www.mintscan.io/bitsong/validators/bitsongvaloper1tfvasglxne4ftuxuedxhtfsgd2x6dwggrmc5y9)
 - Tgrade: [https://www.mintscan.io/tgrade/validators/tgrade1h8zhf0ccu482rtcnv9snk7p97hjynhemg4t7ne](https://www.mintscan.io/tgrade/validators/tgrade1h8zhf0ccu482rtcnv9snk7p97hjynhemg4t7ne)
 
 ## IBC Relayers:
