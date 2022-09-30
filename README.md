@@ -25,6 +25,7 @@ Since the beginning of 2022, I have been interested in nodes and validation.
 ## Mainnet:
 - Tgrade [https://www.mintscan.io/tgrade/validators/tgrade1h8zhf0ccu482rtcnv9snk7p97hjynhemg4t7ne](https://www.mintscan.io/tgrade/validators/tgrade1h8zhf0ccu482rtcnv9snk7p97hjynhemg4t7ne)
 - Konstellation https://www.mintscan.io/konstellation/validators/darcvaloper136l8x2stfeud0227x0s5ktxqeu6wphqnh7ns8d
+- Cerberus https://www.mintscan.io/cerberus/validators/cerberusvaloper1ghvq5uqrlyazehqjcqn2u4atsj20sg9p9xxt8f
 
 ## IBC Relayers:
 - IBC-Relayer Tgrade <-> Osmo
