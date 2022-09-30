@@ -16,12 +16,15 @@ Since the beginning of 2022, I have been interested in nodes and validation.
 - Tidechain - Sr20de - [https://telemetry.tidefi.io](https://telemetry.tidefi.io)
 - Lukso [https://stats.execution.l16.lukso.network/](https://stats.execution.l16.lukso.network/)
 - Nois https://testnet.ping.pub/nois/staking/noisvaloper1xt47alla8xrwy4e2r4gv0uey4q9uf2j8a0jghl
+- Hypersign https://explorer.hypersign.id/hypersign-testnet/staking/hidvaloper1hnt3rm7n6renu2ygphy94ru8sngq0n8ndtcnmr
+
 - Uptick: (Phase 1 ended) https://explorer.testnet.uptick.network/uptick-network-testnet/staking/uptickvaloper1eddj4c9uh2l76llatzdtvmpdcq07lqdne6ufc0
 - Stride (Ended) [https://stride.explorers.guru/validator/stridevaloper1pflyn9e2wjjgu08wzx0prf08ew8t0mx8vlzkz2](https://stride.explorers.guru/validator/stridevaloper1pflyn9e2wjjgu08wzx0prf08ew8t0mx8vlzkz2)
 
 
 ## Mainnet:
-- Tgrade: [https://www.mintscan.io/tgrade/validators/tgrade1h8zhf0ccu482rtcnv9snk7p97hjynhemg4t7ne](https://www.mintscan.io/tgrade/validators/tgrade1h8zhf0ccu482rtcnv9snk7p97hjynhemg4t7ne)
+- Tgrade [https://www.mintscan.io/tgrade/validators/tgrade1h8zhf0ccu482rtcnv9snk7p97hjynhemg4t7ne](https://www.mintscan.io/tgrade/validators/tgrade1h8zhf0ccu482rtcnv9snk7p97hjynhemg4t7ne)
+- Konstellation https://www.mintscan.io/konstellation/validators/darcvaloper136l8x2stfeud0227x0s5ktxqeu6wphqnh7ns8d
 
 ## IBC Relayers:
 - IBC-Relayer Tgrade <-> Osmo
