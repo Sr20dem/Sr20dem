@@ -6,7 +6,7 @@ Since the beginning of 2022, I have been interested in nodes and validation.
 - KYVE https://kyve.explorers.guru/validator/kyvevaloper1kud7arkc2u6kjnjtmlcp2l4yyxat0uu4v3jn7d
 - KYVE beta https://exp.nodeist.net/T-Kyve/staking/kyvevaloper13qkyg8msmn5c3w028560audns2jmjncufm4ljj
 - DWS [https://dws.explorers.guru/validator/dewebvaloper12n2lvj3z56gxf5dslxyj3mc23k8c7cdg9sj5ca](https://dws.explorers.guru/validator/dewebvaloper12n2lvj3z56gxf5dslxyj3mc23k8c7cdg9sj5ca)
-- Crowd Control [https://explorers.acloud.pp.ua/cardchain/staking/ccvaloper18nyh27lwp5dp8j396srrvq52hufeu9vst2fs7g](https://explorers.acloud.pp.ua/cardchain/staking/ccvaloper18nyh27lwp5dp8j396srrvq52hufeu9vst2fs7g)
+- Crowd Control [https://explorers.acloud.pp.ua/cardchain/staking/ccvaloper1c4smhzxtlzarjgrnueetdcjm3kjq3kx47l35tv](https://explorers.acloud.pp.ua/cardchain/staking/ccvaloper1c4smhzxtlzarjgrnueetdcjm3kjq3kx47l35tv)
 - Bundlr Devnet - XMVhzn5Bx7YvVIgHY-7-ytsB5bT1WRA6pD-PiRFlhm4
 - Massa - A1256KPpy8Q9KrXLgstQXj4DxdFjMGciZ42uHChyJT9KwHE7WgYb
 - Arable [https://explorer.nodestake.top/acre-testnet/staking/acrevaloper10e09uwkkn7a0ggzepqvhjc2c8faqqe8kft7u3n](https://explorer.nodestake.top/acre-testnet/staking/acrevaloper10e09uwkkn7a0ggzepqvhjc2c8faqqe8kft7u3n)
