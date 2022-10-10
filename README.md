@@ -4,7 +4,7 @@ Since the beginning of 2022, I have been interested in nodes and validation.
 ## Testnets:
 
 - KYVE https://kyve.explorers.guru/validator/kyvevaloper1kud7arkc2u6kjnjtmlcp2l4yyxat0uu4v3jn7d
-- KYVE beta https://exp.nodeist.net/T-Kyve/staking/kyvevaloper13qkyg8msmn5c3w028560audns2jmjncufm4ljj
+- KYVE beta https://explorer.beta.kyve.network/kyve-betanet/staking/kyvevaloper13qkyg8msmn5c3w028560audns2jmjncufm4ljj
 - DWS [https://dws.explorers.guru/validator/dewebvaloper12n2lvj3z56gxf5dslxyj3mc23k8c7cdg9sj5ca](https://dws.explorers.guru/validator/dewebvaloper12n2lvj3z56gxf5dslxyj3mc23k8c7cdg9sj5ca)
 - Crowd Control [https://explorers.acloud.pp.ua/cardchain/staking/ccvaloper1c4smhzxtlzarjgrnueetdcjm3kjq3kx47l35tv](https://explorers.acloud.pp.ua/cardchain/staking/ccvaloper1c4smhzxtlzarjgrnueetdcjm3kjq3kx47l35tv)
 - Bundlr Devnet - XMVhzn5Bx7YvVIgHY-7-ytsB5bT1WRA6pD-PiRFlhm4
