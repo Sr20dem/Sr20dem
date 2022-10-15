@@ -7,8 +7,6 @@ Since the beginning of 2022, I have been interested in nodes and validation.
 - KYVE beta https://explorer.beta.kyve.network/kyve-betanet/staking/kyvevaloper13qkyg8msmn5c3w028560audns2jmjncufm4ljj
 - DWS [https://dws.explorers.guru/validator/dewebvaloper12n2lvj3z56gxf5dslxyj3mc23k8c7cdg9sj5ca](https://dws.explorers.guru/validator/dewebvaloper12n2lvj3z56gxf5dslxyj3mc23k8c7cdg9sj5ca)
 - Crowd Control https://explorers.acloud.pp.ua/cardchain/staking/ccvaloper1c4smhzxtlzarjgrnueetdcjm3kjq3kx47l35tv
-- Bundlr Devnet - XMVhzn5Bx7YvVIgHY-7-ytsB5bT1WRA6pD-PiRFlhm4
-- Massa - A1256KPpy8Q9KrXLgstQXj4DxdFjMGciZ42uHChyJT9KwHE7WgYb
 - Arable [https://explorer.nodestake.top/acre-testnet/staking/acrevaloper10e09uwkkn7a0ggzepqvhjc2c8faqqe8kft7u3n](https://explorer.nodestake.top/acre-testnet/staking/acrevaloper10e09uwkkn7a0ggzepqvhjc2c8faqqe8kft7u3n)
 - Source [https://explorer.testnet.sourceprotocol.io/source/staking/sourcevaloper1dkuv0w6sv0at60e7m0cs0zl2ghxqsvts659rfu](https://explorer.testnet.sourceprotocol.io/source/staking/sourcevaloper1dkuv0w6sv0at60e7m0cs0zl2ghxqsvts659rfu)
 - Gear - Sr20de - [https://telemetry.gear-tech.io/#list/0x6f022bd353c56b3e441507e1173601fd9dc0fb7547e6a95bbaf9b21f311bcab6](https://telemetry.gear-tech.io/#list/0x6f022bd353c56b3e441507e1173601fd9dc0fb7547e6a95bbaf9b21f311bcab6)
