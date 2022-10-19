@@ -6,6 +6,8 @@ Since the beginning of 2022, I have been interested in nodes and validation.
 - KYVE https://kyve.explorers.guru/validator/kyvevaloper1kud7arkc2u6kjnjtmlcp2l4yyxat0uu4v3jn7d
 - KYVE beta https://explorer.beta.kyve.network/kyve-betanet/staking/kyvevaloper13qkyg8msmn5c3w028560audns2jmjncufm4ljj
 - DWS [https://dws.explorers.guru/validator/dewebvaloper12n2lvj3z56gxf5dslxyj3mc23k8c7cdg9sj5ca](https://dws.explorers.guru/validator/dewebvaloper12n2lvj3z56gxf5dslxyj3mc23k8c7cdg9sj5ca)
+- Mande https://explorer.stavr.tech/mande-chain/staking/mandevaloper1uc06rgs02g3mslhaszj6nw5ksgk72dwqzucp4h
+- Uptick https://explorer.testnet.uptick.network/uptick-network-testnet/staking/uptickvaloper1eddj4c9uh2l76llatzdtvmpdcq07lqdne6ufc0
 - Crowd Control https://explorers.acloud.pp.ua/cardchain/staking/ccvaloper1c4smhzxtlzarjgrnueetdcjm3kjq3kx47l35tv
 - Arable [https://explorer.nodestake.top/acre-testnet/staking/acrevaloper10e09uwkkn7a0ggzepqvhjc2c8faqqe8kft7u3n](https://explorer.nodestake.top/acre-testnet/staking/acrevaloper10e09uwkkn7a0ggzepqvhjc2c8faqqe8kft7u3n)
 - Source [https://explorer.testnet.sourceprotocol.io/source/staking/sourcevaloper1dkuv0w6sv0at60e7m0cs0zl2ghxqsvts659rfu](https://explorer.testnet.sourceprotocol.io/source/staking/sourcevaloper1dkuv0w6sv0at60e7m0cs0zl2ghxqsvts659rfu)
@@ -16,7 +18,6 @@ Since the beginning of 2022, I have been interested in nodes and validation.
 - Nois https://testnet.ping.pub/nois/staking/noisvaloper1xt47alla8xrwy4e2r4gv0uey4q9uf2j8a0jghl
 - Hypersign https://explorer.hypersign.id/hypersign-testnet/staking/hidvaloper1hnt3rm7n6renu2ygphy94ru8sngq0n8ndtcnmr
 
-- Uptick: (Phase 1 ended) https://explorer.testnet.uptick.network/uptick-network-testnet/staking/uptickvaloper1eddj4c9uh2l76llatzdtvmpdcq07lqdne6ufc0
 - Stride (Ended) [https://stride.explorers.guru/validator/stridevaloper1pflyn9e2wjjgu08wzx0prf08ew8t0mx8vlzkz2](https://stride.explorers.guru/validator/stridevaloper1pflyn9e2wjjgu08wzx0prf08ew8t0mx8vlzkz2)
 
 
