@@ -1,6 +1,13 @@
 👋 Hi, my name is Dmitry (Sr20de). I am individual POS/POW validator. I have a lot of experience as webmaster for more than 5 years.
 Since the beginning of 2022, I have been interested in nodes and validation.
 
+## Mainnet:
+- Tgrade [https://www.mintscan.io/tgrade/validators/tgrade1h8zhf0ccu482rtcnv9snk7p97hjynhemg4t7ne](https://www.mintscan.io/tgrade/validators/tgrade1h8zhf0ccu482rtcnv9snk7p97hjynhemg4t7ne)
+- Konstellation https://www.mintscan.io/konstellation/validators/darcvaloper136l8x2stfeud0227x0s5ktxqeu6wphqnh7ns8d
+- Cerberus https://www.mintscan.io/cerberus/validators/cerberusvaloper1ghvq5uqrlyazehqjcqn2u4atsj20sg9p9xxt8f
+- Stride https://stride.explorers.guru/validator/stridevaloper1pflyn9e2wjjgu08wzx0prf08ew8t0mx8vlzkz2
+- Lambda https://explorer.nodestake.top/lambda/staking/lambvaloper13rg0fxs3jmvl8uyqpx7cn4mjpcu5c5mswt8ygk
+
 ## Testnets:
 
 - KYVE https://kyve.explorers.guru/validator/kyvevaloper1kud7arkc2u6kjnjtmlcp2l4yyxat0uu4v3jn7d
@@ -15,13 +22,6 @@ Since the beginning of 2022, I have been interested in nodes and validation.
 - PEAQ - Sr20de - [http://telemetry.sr20de.xyz/#/0xf496028047ba9e394a575e5d2d93828360d35a4c2dade61efff0de309021909f](http://telemetry.sr20de.xyz/#/0xf496028047ba9e394a575e5d2d93828360d35a4c2dade61efff0de309021909f)
 - Nois https://testnet.ping.pub/nois/staking/noisvaloper1xt47alla8xrwy4e2r4gv0uey4q9uf2j8a0jghl
 - Hypersign https://explorer.hypersign.id/hypersign-testnet/staking/hidvaloper1hnt3rm7n6renu2ygphy94ru8sngq0n8ndtcnmr
-
-
-## Mainnet:
-- Tgrade [https://www.mintscan.io/tgrade/validators/tgrade1h8zhf0ccu482rtcnv9snk7p97hjynhemg4t7ne](https://www.mintscan.io/tgrade/validators/tgrade1h8zhf0ccu482rtcnv9snk7p97hjynhemg4t7ne)
-- Konstellation https://www.mintscan.io/konstellation/validators/darcvaloper136l8x2stfeud0227x0s5ktxqeu6wphqnh7ns8d
-- Cerberus https://www.mintscan.io/cerberus/validators/cerberusvaloper1ghvq5uqrlyazehqjcqn2u4atsj20sg9p9xxt8f
-- Stride https://stride.explorers.guru/validator/stridevaloper1pflyn9e2wjjgu08wzx0prf08ew8t0mx8vlzkz2
 
 ## IBC Relayers:
 - IBC-Relayer Tgrade <-> Osmo
