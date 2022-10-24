@@ -13,12 +13,8 @@ Since the beginning of 2022, I have been interested in nodes and validation.
 - Source [https://explorer.testnet.sourceprotocol.io/source/staking/sourcevaloper1dkuv0w6sv0at60e7m0cs0zl2ghxqsvts659rfu](https://explorer.testnet.sourceprotocol.io/source/staking/sourcevaloper1dkuv0w6sv0at60e7m0cs0zl2ghxqsvts659rfu)
 - Gear - Sr20de - [https://telemetry.gear-tech.io/#list/0x6f022bd353c56b3e441507e1173601fd9dc0fb7547e6a95bbaf9b21f311bcab6](https://telemetry.gear-tech.io/#list/0x6f022bd353c56b3e441507e1173601fd9dc0fb7547e6a95bbaf9b21f311bcab6)
 - PEAQ - Sr20de - [http://telemetry.sr20de.xyz/#/0xf496028047ba9e394a575e5d2d93828360d35a4c2dade61efff0de309021909f](http://telemetry.sr20de.xyz/#/0xf496028047ba9e394a575e5d2d93828360d35a4c2dade61efff0de309021909f)
-- Tidechain - Sr20de - [https://telemetry.tidefi.io](https://telemetry.tidefi.io)
-- Lukso [https://stats.execution.l16.lukso.network/](https://stats.execution.l16.lukso.network/)
 - Nois https://testnet.ping.pub/nois/staking/noisvaloper1xt47alla8xrwy4e2r4gv0uey4q9uf2j8a0jghl
 - Hypersign https://explorer.hypersign.id/hypersign-testnet/staking/hidvaloper1hnt3rm7n6renu2ygphy94ru8sngq0n8ndtcnmr
-
-- Stride (Ended) [https://stride.explorers.guru/validator/stridevaloper1pflyn9e2wjjgu08wzx0prf08ew8t0mx8vlzkz2](https://stride.explorers.guru/validator/stridevaloper1pflyn9e2wjjgu08wzx0prf08ew8t0mx8vlzkz2)
 
 
 ## Mainnet:
