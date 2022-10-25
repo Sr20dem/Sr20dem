@@ -2,9 +2,9 @@
 Since the beginning of 2022, I have been interested in nodes and validation.
 
 ## Mainnet:
-- Tgrade [https://www.mintscan.io/tgrade/validators/tgrade1h8zhf0ccu482rtcnv9snk7p97hjynhemg4t7ne](https://www.mintscan.io/tgrade/validators/tgrade1h8zhf0ccu482rtcnv9snk7p97hjynhemg4t7ne)
-- Konstellation https://www.mintscan.io/konstellation/validators/darcvaloper136l8x2stfeud0227x0s5ktxqeu6wphqnh7ns8d
-- Cerberus https://www.mintscan.io/cerberus/validators/cerberusvaloper1ghvq5uqrlyazehqjcqn2u4atsj20sg9p9xxt8f
+- Tgrade https://tgrade.aneka.io/validators/tgrade1h8zhf0ccu482rtcnv9snk7p97hjynhemg4t7ne
+- Konstellation https://atomscan.com/konstellation/validators/darcvaloper136l8x2stfeud0227x0s5ktxqeu6wphqnh7ns8d
+- Cerberus https://ping.pub/cerberus/staking/cerberusvaloper1ghvq5uqrlyazehqjcqn2u4atsj20sg9p9xxt8f
 - Stride https://stride.explorers.guru/validator/stridevaloper1pflyn9e2wjjgu08wzx0prf08ew8t0mx8vlzkz2
 - Lambda https://explorer.nodestake.top/lambda/staking/lambvaloper13rg0fxs3jmvl8uyqpx7cn4mjpcu5c5mswt8ygk
 
@@ -16,7 +16,7 @@ Since the beginning of 2022, I have been interested in nodes and validation.
 - Mande https://explorer.stavr.tech/mande-chain/staking/mandevaloper1uc06rgs02g3mslhaszj6nw5ksgk72dwqzucp4h
 - Uptick https://explorer.testnet.uptick.network/uptick-network-testnet/staking/uptickvaloper1eddj4c9uh2l76llatzdtvmpdcq07lqdne6ufc0
 - Crowd Control https://explorers.acloud.pp.ua/cardchain/staking/ccvaloper1c4smhzxtlzarjgrnueetdcjm3kjq3kx47l35tv
-- Arable https://testnets.cosmosrun.info/bamboo_9051-1/staking
+- Arable https://testnets.cosmosrun.info/bamboo_9051-1/staking/acrevaloper10e09uwkkn7a0ggzepqvhjc2c8faqqe8kft7u3n
 - Source [https://explorer.testnet.sourceprotocol.io/source/staking/sourcevaloper1dkuv0w6sv0at60e7m0cs0zl2ghxqsvts659rfu](https://explorer.testnet.sourceprotocol.io/source/staking/sourcevaloper1dkuv0w6sv0at60e7m0cs0zl2ghxqsvts659rfu)
 - Gear - Sr20de - [https://telemetry.gear-tech.io/#list/0x6f022bd353c56b3e441507e1173601fd9dc0fb7547e6a95bbaf9b21f311bcab6](https://telemetry.gear-tech.io/#list/0x6f022bd353c56b3e441507e1173601fd9dc0fb7547e6a95bbaf9b21f311bcab6)
 - PEAQ - Sr20de - [http://telemetry.sr20de.xyz/#/0xf496028047ba9e394a575e5d2d93828360d35a4c2dade61efff0de309021909f](http://telemetry.sr20de.xyz/#/0xf496028047ba9e394a575e5d2d93828360d35a4c2dade61efff0de309021909f)
