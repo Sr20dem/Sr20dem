@@ -30,6 +30,7 @@ Since the beginning of 2022, I have been interested in nodes and validation.
 ## Sites:
 - http://telemetry.sr20de.xyz - telemetry for Substrate-based projects
 - https://sr20de.xyz - articles and guides
+- https://stake.sr20de.xyz - coming soon
 
 <!---
 Sr20dem/Sr20dem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
