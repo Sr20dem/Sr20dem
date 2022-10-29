@@ -9,7 +9,8 @@ Since the beginning of 2022, I have been interested in nodes and validation.
 - Lambda https://explorer.nodestake.top/lambda/staking/lambvaloper13rg0fxs3jmvl8uyqpx7cn4mjpcu5c5mswt8ygk
 
 ## Testnets:
-
+<details>
+  <summary>Current Testnets</summary>
 - KYVE https://kyve.explorers.guru/validator/kyvevaloper1kud7arkc2u6kjnjtmlcp2l4yyxat0uu4v3jn7d
 - KYVE beta https://explorer.beta.kyve.network/kyve-betanet/staking/kyvevaloper13qkyg8msmn5c3w028560audns2jmjncufm4ljj
 - DWS [https://dws.explorers.guru/validator/dewebvaloper12n2lvj3z56gxf5dslxyj3mc23k8c7cdg9sj5ca](https://dws.explorers.guru/validator/dewebvaloper12n2lvj3z56gxf5dslxyj3mc23k8c7cdg9sj5ca)
@@ -22,6 +23,7 @@ Since the beginning of 2022, I have been interested in nodes and validation.
 - PEAQ - Sr20de - [http://telemetry.sr20de.xyz/#/0xf496028047ba9e394a575e5d2d93828360d35a4c2dade61efff0de309021909f](http://telemetry.sr20de.xyz/#/0xf496028047ba9e394a575e5d2d93828360d35a4c2dade61efff0de309021909f)
 - Nois https://testnet.ping.pub/nois/staking/noisvaloper1xt47alla8xrwy4e2r4gv0uey4q9uf2j8a0jghl
 - Hypersign https://explorer.hypersign.id/hypersign-testnet/staking/hidvaloper1hnt3rm7n6renu2ygphy94ru8sngq0n8ndtcnmr
+ </details>
 
 ## IBC Relayers:
 - IBC-Relayer Tgrade <-> Osmo
