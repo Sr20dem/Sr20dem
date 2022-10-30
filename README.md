@@ -31,6 +31,7 @@ Since the beginning of 2022, I have been interested in nodes and validation.
 ## Sites:
 - http://telemetry.sr20de.xyz - telemetry for Substrate-based projects
 - https://sr20de.xyz - articles and guides
+- https://explorer.sr20de.xyz - explorer for Cosmos-based projects. Mainnets and testnets
 - https://stake.sr20de.xyz - coming soon
 
 
