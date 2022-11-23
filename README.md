@@ -2,9 +2,9 @@
 Since the beginning of 2022, I have been interested in nodes and validation.
 
 ## Mainnet:
+- Arable https://explorer.nodestake.top/acre/staking/acrevaloper10e09uwkkn7a0ggzepqvhjc2c8faqqe8kft7u3n
 - Tgrade https://www.mintscan.io/tgrade/validators/tgrade1h8zhf0ccu482rtcnv9snk7p97hjynhemg4t7ne
 - Cerberus https://www.mintscan.io/cerberus/validators/cerberusvaloper1ghvq5uqrlyazehqjcqn2u4atsj20sg9p9xxt8f
-- Stride https://stride.explorers.guru/validator/stridevaloper1pflyn9e2wjjgu08wzx0prf08ew8t0mx8vlzkz2
 - Lambda https://explorer.nodestake.top/lambda/staking/lambvaloper13rg0fxs3jmvl8uyqpx7cn4mjpcu5c5mswt8ygk
 
 ## Testnets:
