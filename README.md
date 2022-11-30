@@ -6,6 +6,7 @@ Since the beginning of 2022, I have been interested in nodes and validation.
 - Tgrade https://www.mintscan.io/tgrade/validators/tgrade1h8zhf0ccu482rtcnv9snk7p97hjynhemg4t7ne
 - Cerberus https://www.mintscan.io/cerberus/validators/cerberusvaloper1ghvq5uqrlyazehqjcqn2u4atsj20sg9p9xxt8f
 - Lambda https://explorer.nodestake.top/lambda/staking/lambvaloper13rg0fxs3jmvl8uyqpx7cn4mjpcu5c5mswt8ygk
+- Sommelier https://www.mintscan.io/sommelier/validators/sommvaloper1z6fn72t5kxrhs7p53k3w2mywu397c4ngen2tkh
 
 ## Testnets:
 
