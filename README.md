@@ -18,9 +18,9 @@ Since the beginning of 2022, I have been interested in nodes and validation.
 - IBC-Relayer Bitsong <-> Osmo
 
 ## Sites:
-- https://sr20de.xyz - articles and guides
+- https://sr20de.xyz - stake with us
+- https://blog.sr20de.xyz - articles and guides
 - https://explorer.sr20de.xyz - explorer for Cosmos-based projects. Mainnets and testnets
-- https://stake.sr20de.xyz - coming soon
 
 
 
