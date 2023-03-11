@@ -7,6 +7,7 @@ Since the beginning of 2022, I have been interested in nodes and validation.
 - Cerberus (Chain halted) https://www.mintscan.io/cerberus/validators/cerberusvaloper1ghvq5uqrlyazehqjcqn2u4atsj20sg9p9xxt8f
 - Lambda https://explorer.sr20de.xyz/lambda/staking/lambvaloper13rg0fxs3jmvl8uyqpx7cn4mjpcu5c5mswt8ygk
 - Sommelier https://www.mintscan.io/sommelier/validators/sommvaloper1z6fn72t5kxrhs7p53k3w2mywu397c4ngen2tkh
+- Osmosis https://www.mintscan.io/osmosis/validators/osmovaloper1w6xwce25z0l5y420xnlzkxljkyxm2c4cuych7e
 
 ## Testnets:
 
