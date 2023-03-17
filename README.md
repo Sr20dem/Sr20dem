@@ -21,6 +21,7 @@ Since the beginning of 2022, I have been interested in nodes and validation.
 - Acrechain <-> Axelar
 - Acrechain <-> CosmosHub
 - Acrechain <-> Stride
+- Lambda <-> Osmosis
 
 ## Sites:
 - https://sr20de.xyz - stake with us
