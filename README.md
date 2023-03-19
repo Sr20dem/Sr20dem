@@ -6,7 +6,6 @@ Since the beginning of 2022, I have been interested in nodes and validation.
 - Tgrade https://www.mintscan.io/tgrade/validators/tgrade1h8zhf0ccu482rtcnv9snk7p97hjynhemg4t7ne
 - Lambda https://explorer.sr20de.xyz/lambda/staking/lambvaloper13rg0fxs3jmvl8uyqpx7cn4mjpcu5c5mswt8ygk
 - Sommelier https://www.mintscan.io/sommelier/validators/sommvaloper1z6fn72t5kxrhs7p53k3w2mywu397c4ngen2tkh
-- Osmosis https://www.mintscan.io/osmosis/validators/osmovaloper1w6xwce25z0l5y420xnlzkxljkyxm2c4cuych7e
 - KYVE https://kyve.explorers.guru/validator/kyvevaloper1nprnzg0d7rmympgt3eld38rxp60rlfc22guj6p
 
 ## Testnets:
