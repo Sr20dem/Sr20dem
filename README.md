@@ -25,7 +25,6 @@ Since the beginning of 2022, I have been interested in nodes and validation.
 
 ## Sites:
 - https://sr20de.xyz - stake with us
-- https://blog.sr20de.xyz - articles and guides
 - https://medium.com/@sr20de - Medium blog
 - https://explorer.sr20de.xyz - explorer for Cosmos-based projects. Mainnets and testnets
 
