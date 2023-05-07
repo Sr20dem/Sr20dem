@@ -23,6 +23,7 @@ Since the beginning of 2022, I have been interested in nodes and validation.
 - Acrechain <-> CosmosHub
 - Acrechain <-> Stride
 - Lambda <-> Osmosis
+- Nois <-> Juno
 
 ## Sites:
 - https://sr20de.xyz - stake with us
