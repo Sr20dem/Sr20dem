@@ -9,7 +9,6 @@ Since the beginning of 2022, I have been interested in nodes and validation.
 - KYVE https://kyve.explorers.guru/validator/kyvevaloper1nprnzg0d7rmympgt3eld38rxp60rlfc22guj6p
 - Uptick https://uptick.explorers.guru/validator/uptickvaloper1eddj4c9uh2l76llatzdtvmpdcq07lqdne6ufc0
 - Nois https://nois.explorers.guru/validator/noisvaloper1xt47alla8xrwy4e2r4gv0uey4q9uf2j8a0jghl
-- 8Ball https://explorer.sr20de.xyz/8ball/staking/8ballvaloper1cwsk3wp37r3550d59g00n5hq93hsfllyu8t6k4
 
 ## Testnets:
 
