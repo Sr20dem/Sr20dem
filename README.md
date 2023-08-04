@@ -12,6 +12,7 @@ Since the beginning of 2022, I have been interested in nodes and validation.
 - Empower https://explorer.sr20de.xyz/Empower/staking/empowervaloper1tch247j4zgk7468xqcp9z4fp2lmrm78tczwnv7
 - Composable https://explorer.nodestake.top/composable/staking/centaurivaloper12xv9v4tdnmyffa6hxkedkzh35vkrzrk84durjh
 - Realio https://explorer.nodestake.top/realio/staking/realiovaloper17luxsq3nypp29ak3wemlj9np3u2h2ux82zh2w5
+- Desmos https://ping.pub/desmos/staking/desmosvaloper1hcafnxmh0dtsw2w7vmh78jgej2vfxvtnl53rse
 
 ## Testnets:
 
