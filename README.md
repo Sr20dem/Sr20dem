@@ -6,13 +6,13 @@ Since the beginning of 2022, I have been interested in nodes and validation.
 - Tgrade https://www.mintscan.io/tgrade/validators/tgrade1h8zhf0ccu482rtcnv9snk7p97hjynhemg4t7ne
 - Lambda https://explorer.sr20de.xyz/lambda/staking/lambvaloper13rg0fxs3jmvl8uyqpx7cn4mjpcu5c5mswt8ygk
 - Sommelier https://www.mintscan.io/sommelier/validators/sommvaloper1z6fn72t5kxrhs7p53k3w2mywu397c4ngen2tkh
-- KYVE https://kyve.explorers.guru/validator/kyvevaloper1nprnzg0d7rmympgt3eld38rxp60rlfc22guj6p
+- KYVE https://www.mintscan.io/kyve/validators/kyvevaloper1nprnzg0d7rmympgt3eld38rxp60rlfc22guj6p
 - Uptick https://uptick.explorers.guru/validator/uptickvaloper1eddj4c9uh2l76llatzdtvmpdcq07lqdne6ufc0
 - Nois https://nois.explorers.guru/validator/noisvaloper1xt47alla8xrwy4e2r4gv0uey4q9uf2j8a0jghl
 - Empower https://explorer.sr20de.xyz/Empower/staking/empowervaloper1tch247j4zgk7468xqcp9z4fp2lmrm78tczwnv7
 - Composable https://explorer.nodestake.top/composable/staking/centaurivaloper12xv9v4tdnmyffa6hxkedkzh35vkrzrk84durjh
 - Realio https://explorer.nodestake.top/realio/staking/realiovaloper17luxsq3nypp29ak3wemlj9np3u2h2ux82zh2w5
-- Desmos https://ping.pub/desmos/staking/desmosvaloper1hcafnxmh0dtsw2w7vmh78jgej2vfxvtnl53rse
+- Desmos https://www.mintscan.io/desmos/validators/desmosvaloper1hcafnxmh0dtsw2w7vmh78jgej2vfxvtnl53rse
 
 ## Testnets:
 
