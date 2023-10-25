@@ -16,6 +16,7 @@ Since the beginning of 2022, I have been interested in nodes and validation.
 - Desmos https://dev.mintscan.io/desmos/validators/desmosvaloper1hcafnxmh0dtsw2w7vmh78jgej2vfxvtnl53rse
 - Juno https://dev.mintscan.io/juno/validators/junovaloper1aar0u2ta3x9waemz7d9ad0x228kv82a7uqgmfl
 - Goracle https://betanet-app.goracle.io/validators/v2
+- SGE https://explorer.nodestake.top/sge/staking/sgevaloper1ygm7ml77ugftm2ty5g8pr9pqj36q3yy865ny3c
 
 ## Testnets:
 
