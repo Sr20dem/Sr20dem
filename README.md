@@ -3,7 +3,7 @@ Since the beginning of 2022, I have been interested in nodes and validation.
 
 ## Mainnet:
 - Source https://explorer.sr20de.xyz/Source-mainnet/staking/sourcevaloper1dkuv0w6sv0at60e7m0cs0zl2ghxqsvts659rfu
-- HAQQ https://main.anode.team/haqq/staking/haqqvaloper1kywp78uj28vwwqj82w88zshn2w8p6epz88w08x
+- HAQQ https://haqq.explorers.guru/validator/haqqvaloper1kywp78uj28vwwqj82w88zshn2w8p6epz88w08x
 - Arce https://explorer.sr20de.xyz/acre/staking/acrevaloper10e09uwkkn7a0ggzepqvhjc2c8faqqe8kft7u3n
 - Tgrade https://dev.mintscan.io/tgrade/validators/tgrade1h8zhf0ccu482rtcnv9snk7p97hjynhemg4t7ne
 - Lambda https://explorer.sr20de.xyz/lambda/staking/lambvaloper13rg0fxs3jmvl8uyqpx7cn4mjpcu5c5mswt8ygk
