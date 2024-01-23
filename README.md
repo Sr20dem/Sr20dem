@@ -2,18 +2,20 @@
 Since the beginning of 2022, I have been interested in nodes and validation.
 
 ## Mainnet:
+- Celestia https://www.mintscan.io/celestia/validators/celestiavaloper1g98nwdkuysv9mgepq2nwaawx69l3tnl0gct7ph/
+- Composable https://explorer.sr20de.xyz/Composable/staking/centaurivaloper12xv9v4tdnmyffa6hxkedkzh35vkrzrk84durjh
+- Desmos https://dev.mintscan.io/desmos/validators/desmosvaloper1hcafnxmh0dtsw2w7vmh78jgej2vfxvtnl53rse
+- Goracle https://betanet-app.goracle.io/validators/v2
+- HAQQ https://explorer.sr20de.xyz/haqq/staking/haqqvaloper1kywp78uj28vwwqj82w88zshn2w8p6epz88w08x
+- Juno https://www.mintscan.io/juno/validators/junovaloper1aar0u2ta3x9waemz7d9ad0x228kv82a7uqgmfl/
+- KYVE https://www.mintscan.io/kyve/validators/kyvevaloper1nprnzg0d7rmympgt3eld38rxp60rlfc22guj6p/
+- Nois https://nois.explorers.guru/validator/noisvaloper1xt47alla8xrwy4e2r4gv0uey4q9uf2j8a0jghl
+- Osmosis https://www.mintscan.io/osmosis/validators/osmovaloper1z424aqrtmletkpakgt67kl4fq68tewg22pz06a/
+- Realio https://explorer.stavr.tech/Realio-Mainnet/staking/realiovaloper1gza7q0ml8nwuuyddtusfsauuc7f934ywapz857
 - SGE https://explorer.sr20de.xyz/SGE/staking/sgevaloper1ygm7ml77ugftm2ty5g8pr9pqj36q3yy865ny3c
 - Source https://explorer.sr20de.xyz/Source-mainnet/staking/sourcevaloper1dkuv0w6sv0at60e7m0cs0zl2ghxqsvts659rfu
-- HAQQ https://explorer.sr20de.xyz/haqq/staking/haqqvaloper1kywp78uj28vwwqj82w88zshn2w8p6epz88w08x
 - Tgrade https://dev.mintscan.io/tgrade/validators/tgrade1h8zhf0ccu482rtcnv9snk7p97hjynhemg4t7ne
-- KYVE https://explorer.sr20de.xyz/kyve/staking/kyvevaloper1nprnzg0d7rmympgt3eld38rxp60rlfc22guj6p
 - Uptick https://explorer.sr20de.xyz/uptick/staking/uptickvaloper1eddj4c9uh2l76llatzdtvmpdcq07lqdne6ufc0
-- Nois https://nois.explorers.guru/validator/noisvaloper1xt47alla8xrwy4e2r4gv0uey4q9uf2j8a0jghl
-- Composable https://explorer.nodestake.top/composable/staking/centaurivaloper12xv9v4tdnmyffa6hxkedkzh35vkrzrk84durjh
-- Realio https://explorer.stavr.tech/Realio-Mainnet/staking/realiovaloper1gza7q0ml8nwuuyddtusfsauuc7f934ywapz857
-- Desmos https://dev.mintscan.io/desmos/validators/desmosvaloper1hcafnxmh0dtsw2w7vmh78jgej2vfxvtnl53rse
-- Juno https://dev.mintscan.io/juno/validators/junovaloper1aar0u2ta3x9waemz7d9ad0x228kv82a7uqgmfl
-- Goracle https://betanet-app.goracle.io/validators/v2
 
 ## Testnets:
 
