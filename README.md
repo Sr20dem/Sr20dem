@@ -6,7 +6,6 @@ Since the beginning of 2022, I have been interested in nodes and validation.
 - Source https://explorer.sr20de.xyz/Source-mainnet/staking/sourcevaloper1dkuv0w6sv0at60e7m0cs0zl2ghxqsvts659rfu
 - HAQQ https://explorer.sr20de.xyz/haqq/staking/haqqvaloper1kywp78uj28vwwqj82w88zshn2w8p6epz88w08x
 - Tgrade https://dev.mintscan.io/tgrade/validators/tgrade1h8zhf0ccu482rtcnv9snk7p97hjynhemg4t7ne
-- Lambda https://explorer.sr20de.xyz/lambda/staking/lambvaloper13rg0fxs3jmvl8uyqpx7cn4mjpcu5c5mswt8ygk
 - KYVE https://explorer.sr20de.xyz/kyve/staking/kyvevaloper1nprnzg0d7rmympgt3eld38rxp60rlfc22guj6p
 - Uptick https://explorer.sr20de.xyz/uptick/staking/uptickvaloper1eddj4c9uh2l76llatzdtvmpdcq07lqdne6ufc0
 - Nois https://nois.explorers.guru/validator/noisvaloper1xt47alla8xrwy4e2r4gv0uey4q9uf2j8a0jghl
