@@ -1,6 +1,4 @@
-👋 Hi, my name is Dmitry (Sr20de). I am individual POS/POW validator. I have a lot of experience as webmaster for more than 5 years.
-Since the beginning of 2022, I have been interested in nodes and validation.
-
+👋 Hi. I am individual POS/POW validator.
 ## Mainnet:
 - Celestia https://www.mintscan.io/celestia/validators/celestiavaloper1g98nwdkuysv9mgepq2nwaawx69l3tnl0gct7ph/
 - Composable https://explorer.sr20de.xyz/Composable/staking/centaurivaloper12xv9v4tdnmyffa6hxkedkzh35vkrzrk84durjh
