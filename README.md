@@ -2,7 +2,7 @@
 ## Mainnet:
 - Celestia https://www.mintscan.io/celestia/validators/celestiavaloper1g98nwdkuysv9mgepq2nwaawx69l3tnl0gct7ph/
 - Composable https://explorer.sr20de.xyz/Composable/staking/centaurivaloper12xv9v4tdnmyffa6hxkedkzh35vkrzrk84durjh
-- Desmos https://dev.mintscan.io/desmos/validators/desmosvaloper1hcafnxmh0dtsw2w7vmh78jgej2vfxvtnl53rse
+- Desmos https://mintscan.io/desmos/validators/desmosvaloper1hcafnxmh0dtsw2w7vmh78jgej2vfxvtnl53rse
 - Dymension https://www.mintscan.io/dymension/validators/dymvaloper1wa9krhate5mmhnzt9jlaq856u8es3v5f852qr5
 - Goracle https://betanet-app.goracle.io/validators/v2
 - HAQQ https://explorer.sr20de.xyz/haqq/staking/haqqvaloper1kywp78uj28vwwqj82w88zshn2w8p6epz88w08x
