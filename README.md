@@ -1,5 +1,6 @@
 👋 Hi. I am individual POS/POW validator.
 ## Mainnet:
+- BlockX https://exp.utsa.tech/blockx/staking/blockxvaloper1258yf40c75wc9wt7tk7anecsdn90fx6qf79pkr
 - Composable https://explorer.stavr.tech/Composable-Mainnet/staking/picavaloper12xv9v4tdnmyffa6hxkedkzh35vkrzrk8s9hjpz
 - Desmos https://mintscan.io/desmos/validators/desmosvaloper1hcafnxmh0dtsw2w7vmh78jgej2vfxvtnl53rse
 - Entangle https://cosmotracker.com/entangle/staking/entvaloper1juy7hff0t0fx3nrlnvhyhmrgtzfmxlgr3t6a2h
