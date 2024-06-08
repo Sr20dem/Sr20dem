@@ -19,7 +19,7 @@
 
 [Crowd Control](https://explorer.sr20de.xyz/Crowd%20Control%20testnet/staking/ccvaloper18nyh27lwp5dp8j396srrvq52hufeu9vst2fs7g) | [Nois](https://explorer.sr20de.xyz/nois-testnet/staking/noisvaloper1j2nyll7ll64pwkv9270juletq4fq7y8up0elg8) | [Hypersign](https://explorer.sr20de.xyz/Hypersign-testnet/staking/hidvaloper13qdlktc9klx6l2emx3gwjwc0g9x2lntezd3tqr) | [SAO beta](https://explorer.sao.network/sao-beta/staking/saovaloper1k5xys8pla7aacd4z43jax7wnf03zkrjjz82evk) | [Desmos](https://testnet.ping.pub/desmos/staking/desmosvaloper1rrzpxa996ga4czzwn7nn4nmla0tpy23uhxf93v) | [Arkeo](https://exp.utsa.tech/arkeo-test/staking/tarkeovaloper1z6fn72t5kxrhs7p53k3w2mywu397c4ngfcr4lp)  | [SelfChain](https://explorer.stavr.tech/Selfchain-testnet/staking/selfvaloper1zj7rjau0raktwes7mcp6wvr0mcc56qujeausx9)  | [Source](https://explorer.sr20de.xyz/Source-testnet/staking/sourcevaloper1dkuv0w6sv0at60e7m0cs0zl2ghxqsvts659rfu) | [SGE](https://explorer.sr20de.xyz/SGE-Testnet/staking/sgevaloper1gn2dsxxgndg6x9azgl5p6vx5np7v8pemda6uzp)
   | [Galactica](https://explorer.nodeshub.online/galactica_Testnet/staking/galavaloper1frk2xpymdg4pwveaqleh2yrsyg75273zwhy03f)
-
+  | [Initia](https://scan.testnet.initia.xyz/initiation-1/validators/initvaloper18eltknswajterrnzjtarwhzuqwv3x68qj5tsmv)
 ## IBC Relayers: 
 Here https://sr20de.xyz/ibc/
 
