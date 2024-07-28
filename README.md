@@ -9,6 +9,7 @@
 - KYVE https://www.mintscan.io/kyve/validators/kyvevaloper1nprnzg0d7rmympgt3eld38rxp60rlfc22guj6p/
 - Nois https://nois.explorers.guru/validator/noisvaloper1xt47alla8xrwy4e2r4gv0uey4q9uf2j8a0jghl
 - Realio https://explorer.stavr.tech/Realio-Mainnet/staking/realiovaloper1gza7q0ml8nwuuyddtusfsauuc7f934ywapz857
+- SelfChain https://explorer.selfchain.xyz/selfchain/staking/selfvaloper1zj7rjau0raktwes7mcp6wvr0mcc56qujeausx9
 - SGE https://explorer.sr20de.xyz/SGE/staking/sgevaloper1ygm7ml77ugftm2ty5g8pr9pqj36q3yy865ny3c
 - Source https://explorer.sr20de.xyz/Source-mainnet/staking/sourcevaloper1dkuv0w6sv0at60e7m0cs0zl2ghxqsvts659rfu
 - Tgrade https://mintscan.io/tgrade/validators/tgrade1h8zhf0ccu482rtcnv9snk7p97hjynhemg4t7ne
