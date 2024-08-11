@@ -1,12 +1,8 @@
 👋 Hi. I am individual POS/POW validator.
 ## Mainnet:
 - Composable https://explorer.stavr.tech/Composable-Mainnet/staking/picavaloper12xv9v4tdnmyffa6hxkedkzh35vkrzrk8s9hjpz
-- Desmos https://mintscan.io/desmos/validators/desmosvaloper1hcafnxmh0dtsw2w7vmh78jgej2vfxvtnl53rse
 - Entangle https://cosmotracker.com/entangle/staking/entvaloper1juy7hff0t0fx3nrlnvhyhmrgtzfmxlgr3t6a2h
 - Goracle https://betanet-app.goracle.io/validators/v2
-- HAQQ https://haqq.explorers.guru/validator/haqqvaloper1kywp78uj28vwwqj82w88zshn2w8p6epz88w08x
-- Juno https://www.mintscan.io/juno/validators/junovaloper1aar0u2ta3x9waemz7d9ad0x228kv82a7uqgmfl/
-- KYVE https://www.mintscan.io/kyve/validators/kyvevaloper1nprnzg0d7rmympgt3eld38rxp60rlfc22guj6p/
 - Nois https://nois.explorers.guru/validator/noisvaloper1xt47alla8xrwy4e2r4gv0uey4q9uf2j8a0jghl
 - Realio https://explorer.stavr.tech/Realio-Mainnet/staking/realiovaloper1gza7q0ml8nwuuyddtusfsauuc7f934ywapz857
 - SelfChain https://explorer.selfchain.xyz/selfchain/staking/selfvaloper1zj7rjau0raktwes7mcp6wvr0mcc56qujeausx9
