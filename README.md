@@ -8,7 +8,6 @@
 - SelfChain https://explorer.selfchain.xyz/selfchain/staking/selfvaloper1kjeslwkstm9nu5t6973nl3qlu4c4u9nvku7gp4
 - SGE https://explorer.sr20de.xyz/SGE/staking/sgevaloper1ygm7ml77ugftm2ty5g8pr9pqj36q3yy865ny3c
 - Source https://explorer.sr20de.xyz/Source-mainnet/staking/sourcevaloper1dkuv0w6sv0at60e7m0cs0zl2ghxqsvts659rfu
-- Tgrade https://mintscan.io/tgrade/validators/tgrade1h8zhf0ccu482rtcnv9snk7p97hjynhemg4t7ne
 - Uptick https://explorer.sr20de.xyz/uptick/staking/uptickvaloper1eddj4c9uh2l76llatzdtvmpdcq07lqdne6ufc0
 
 ## Testnets:
