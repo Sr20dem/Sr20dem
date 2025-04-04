@@ -1,5 +1,6 @@
 👋 Hi. I am individual POS/POW validator.
 ## Mainnet:
+- Arkeo https://explorer.stavr.tech/Arkeo-Mainnet/staking/arkeovaloper1rqd5x6x0u5g564klfuuv8ke3k67rt484j6lgw9
 - Composable https://explorer.stavr.tech/Composable-Mainnet/staking/picavaloper12xv9v4tdnmyffa6hxkedkzh35vkrzrk8s9hjpz
 - Entangle https://explorer.stavr.tech/Entangle-Mainnet/staking/entvaloper1juy7hff0t0fx3nrlnvhyhmrgtzfmxlgr3t6a2h
 - Goracle https://betanet-app.goracle.io/validators/v2
