@@ -1,6 +1,6 @@
 👋 Hi. I am individual POS/POW validator.
 ## Mainnet:
-- Arkeo https://explorer.stavr.tech/Arkeo-Mainnet/staking/arkeovaloper1rqd5x6x0u5g564klfuuv8ke3k67rt484j6lgw9
+- Arkeo https://exp.stakevillage.net/arkeo-mainnet/staking/arkeovaloper1rqd5x6x0u5g564klfuuv8ke3k67rt484j6lgw9
 - Composable https://explorer.stavr.tech/Composable-Mainnet/staking/picavaloper12xv9v4tdnmyffa6hxkedkzh35vkrzrk8s9hjpz
 - Goracle https://betanet-app.goracle.io/validators/v2
 - Realio https://explorer.stavr.tech/Realio-Mainnet/staking/realiovaloper1gza7q0ml8nwuuyddtusfsauuc7f934ywapz857
