@@ -2,7 +2,9 @@
 ## Mainnet:
 - Arkeo https://exp.stakevillage.net/arkeo-mainnet/staking/arkeovaloper1rqd5x6x0u5g564klfuuv8ke3k67rt484j6lgw9
 - Composable https://explorer.stavr.tech/Composable-Mainnet/staking/picavaloper12xv9v4tdnmyffa6hxkedkzh35vkrzrk8s9hjpz
+- Cosmos https://www.mintscan.io/cosmos/validators/cosmosvaloper1zmgj4wx0ddgktmg9332f3szjsqlm4yk9pwdccl
 - Goracle https://betanet-app.goracle.io/validators/v2
+- Osmosis https://www.mintscan.io/osmosis/validators/osmovaloper1z424aqrtmletkpakgt67kl4fq68tewg22pz06a
 - Realio https://explorer.stavr.tech/Realio-Mainnet/staking/realiovaloper1gza7q0ml8nwuuyddtusfsauuc7f934ywapz857
 - SelfChain https://explorer.selfchain.xyz/selfchain/staking/selfvaloper1kjeslwkstm9nu5t6973nl3qlu4c4u9nvku7gp4
 - Source https://explorer.sr20de.xyz/Source-mainnet/staking/sourcevaloper1dkuv0w6sv0at60e7m0cs0zl2ghxqsvts659rfu
