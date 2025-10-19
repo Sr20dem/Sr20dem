@@ -1,7 +1,6 @@
 👋 Hi. I am individual POS/POW validator.
 ## Mainnet:
 - Arkeo https://exp.stakevillage.net/arkeo-mainnet/staking/arkeovaloper1rqd5x6x0u5g564klfuuv8ke3k67rt484j6lgw9
-- Composable https://explorer.stavr.tech/Composable-Mainnet/staking/picavaloper12xv9v4tdnmyffa6hxkedkzh35vkrzrk8s9hjpz
 - Cosmos https://www.mintscan.io/cosmos/validators/cosmosvaloper1zmgj4wx0ddgktmg9332f3szjsqlm4yk9pwdccl
 - Goracle https://betanet-app.goracle.io/validators/v2
 - Osmosis https://www.mintscan.io/osmosis/validators/osmovaloper1z424aqrtmletkpakgt67kl4fq68tewg22pz06a
@@ -10,6 +9,7 @@
 - Symphony https://explorer.sr20de.xyz/symphony/staking/symphonyvaloper1m2g04dg8wqs8n4v508fqpma5s22ys2vkm0xef4
 - Tellor https://explorer.tellor.io/validators
 - Uptick https://explorer.sr20de.xyz/uptick/staking/uptickvaloper1eddj4c9uh2l76llatzdtvmpdcq07lqdne6ufc0
+- Zeta https://wallet.keplr.app/chains/zetachain?modal=staking&chain=zetachain_7000-1&validator_address=zetavaloper1872wa3m3jsemm03pcm0rel578ar5mqz9hf8pyu&step_id=2
 
 ## Testnets:
 
