@@ -4,7 +4,8 @@
 - Cosmos https://www.mintscan.io/cosmos/validators/cosmosvaloper1zmgj4wx0ddgktmg9332f3szjsqlm4yk9pwdccl
 - Goracle https://betanet-app.goracle.io/validators/v2
 - Osmosis https://www.mintscan.io/osmosis/validators/osmovaloper1z424aqrtmletkpakgt67kl4fq68tewg22pz06a
-- Realio https://explorer.stavr.tech/Realio-Mainnet/staking/realiovaloper1gza7q0ml8nwuuyddtusfsauuc7f934ywapz857
+- Realio RIO https://explorer.realio.network/validators/realiovaloper1gza7q0ml8nwuuyddtusfsauuc7f934ywapz857
+- Realio DSTRX https://explorer.realio.network/validators/realiovaloper1d4xzwset25s2d9rhmrn3j4mumx0ty8lkyn5558
 - SelfChain https://explorer.selfchain.xyz/selfchain/staking/selfvaloper1kjeslwkstm9nu5t6973nl3qlu4c4u9nvku7gp4
 - Symphony https://explorer.sr20de.xyz/symphony/staking/symphonyvaloper1m2g04dg8wqs8n4v508fqpma5s22ys2vkm0xef4
 - Tellor https://explorer.tellor.io/validators
