@@ -10,7 +10,7 @@
 - Symphony https://explorer.sr20de.xyz/symphony/staking/symphonyvaloper1m2g04dg8wqs8n4v508fqpma5s22ys2vkm0xef4
 - Tellor https://explorer.tellor.io/validators
 - Uptick https://explorer.sr20de.xyz/uptick/staking/uptickvaloper1eddj4c9uh2l76llatzdtvmpdcq07lqdne6ufc0
-- Zeta https://wallet.keplr.app/chains/zetachain?modal=staking&chain=zetachain_7000-1&validator_address=zetavaloper1872wa3m3jsemm03pcm0rel578ar5mqz9hf8pyu&step_id=2
+- Zeta https://wallet.keplr.app/chains/zetachain?modal=staking&chain=zetachain_7000-1&validator_address=zetavaloper1jp6umjqj3xv65slj6qrxmxej8emq46gm7rtt8p&step_id=3&action_id=stake
 
 ## Testnets:
 
