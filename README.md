@@ -8,7 +8,6 @@
 - Realio RIO https://explorer.realio.network/validators/realiovaloper1gza7q0ml8nwuuyddtusfsauuc7f934ywapz857
 - Realio DSTRX https://explorer.realio.network/validators/realiovaloper1d4xzwset25s2d9rhmrn3j4mumx0ty8lkyn5558
 - Symphony https://explorer.sr20de.xyz/symphony/staking/symphonyvaloper1m2g04dg8wqs8n4v508fqpma5s22ys2vkm0xef4
-- Tellor https://explorer.tellor.io/validators
 - Uptick https://explorer.sr20de.xyz/uptick/staking/uptickvaloper1eddj4c9uh2l76llatzdtvmpdcq07lqdne6ufc0
 - Zeta https://www.mintscan.io/zeta/validators/zetavaloper1jp6umjqj3xv65slj6qrxmxej8emq46gm7rtt8p
 
