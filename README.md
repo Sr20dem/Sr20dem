@@ -3,12 +3,14 @@
 - Arkeo https://exp.stakevillage.net/arkeo-mainnet/staking/arkeovaloper1rqd5x6x0u5g564klfuuv8ke3k67rt484j6lgw9
 - Bitway https://ping.pub/bitway/staking/bitwayvaloper1qqx3gyg8rudpgrg0zu2s78swp5ds7rszpuyscqs4rvf3upsgpvdpsahdy4j
 - Cosmos https://www.mintscan.io/cosmos/validators/cosmosvaloper1zmgj4wx0ddgktmg9332f3szjsqlm4yk9pwdccl
+- Fetch AI https://www.mintscan.io/fetchai/validators/fetchvaloper15ezxu92yg2eq6dynhfsnnnqc0nxc47yuxc0h82
 - Lava https://explorer.stavr.tech/Lava-Mainnet/staking/lava@valoper1damtmsm2884lhvnpm47j9dj0y5qvl59vxh759k
 - Osmosis https://www.mintscan.io/osmosis/validators/osmovaloper1z424aqrtmletkpakgt67kl4fq68tewg22pz06a
 - Realio RIO https://explorer.realio.network/validators/realiovaloper1gza7q0ml8nwuuyddtusfsauuc7f934ywapz857
 - Realio DSTRX https://explorer.realio.network/validators/realiovaloper1d4xzwset25s2d9rhmrn3j4mumx0ty8lkyn5558
 - Symphony https://explorer.sr20de.xyz/symphony/staking/symphonyvaloper1m2g04dg8wqs8n4v508fqpma5s22ys2vkm0xef4
 - Uptick https://explorer.sr20de.xyz/uptick/staking/uptickvaloper1eddj4c9uh2l76llatzdtvmpdcq07lqdne6ufc0
+- Xion https://www.mintscan.io/xion/validators/xionvaloper1rj5vyd7jqcz24a0ewndug56ycxrfd4s9y5326v
 - Zeta https://www.mintscan.io/zeta/validators/zetavaloper1jp6umjqj3xv65slj6qrxmxej8emq46gm7rtt8p
 
 ## Testnets:
