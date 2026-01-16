@@ -5,6 +5,7 @@
 - Cosmos https://www.mintscan.io/cosmos/validators/cosmosvaloper1zmgj4wx0ddgktmg9332f3szjsqlm4yk9pwdccl
 - Fetch AI https://www.mintscan.io/fetchai/validators/fetchvaloper15ezxu92yg2eq6dynhfsnnnqc0nxc47yuxc0h82
 - Lava https://explorer.stavr.tech/Lava-Mainnet/staking/lava@valoper1damtmsm2884lhvnpm47j9dj0y5qvl59vxh759k
+- Hippo https://explorer.nodestake.org/hippo/staking/hippovaloper1ycvn4t5zd62r3g8kxf0rrc0clucz50g34rc24d
 - Osmosis https://www.mintscan.io/osmosis/validators/osmovaloper1z424aqrtmletkpakgt67kl4fq68tewg22pz06a
 - Realio RIO https://explorer.realio.network/validators/realiovaloper1gza7q0ml8nwuuyddtusfsauuc7f934ywapz857
 - Realio DSTRX https://explorer.realio.network/validators/realiovaloper1d4xzwset25s2d9rhmrn3j4mumx0ty8lkyn5558
