@@ -1,6 +1,7 @@
 👋 Hi. I am individual POS/POW validator.
 ## Mainnet:
 - Arkeo https://exp.stakevillage.net/arkeo-mainnet/staking/arkeovaloper1rqd5x6x0u5g564klfuuv8ke3k67rt484j6lgw9
+- Babylon https://ping.pub/babylon/staking/bbnvaloper1t8vvym60lurqtqxnnke342hvwrkme9n408jzyk
 - Bitway https://ping.pub/bitway/staking/bitwayvaloper1qqx3gyg8rudpgrg0zu2s78swp5ds7rszpuyscqs4rvf3upsgpvdpsahdy4j
 - Cosmos https://www.mintscan.io/cosmos/validators/cosmosvaloper1zmgj4wx0ddgktmg9332f3szjsqlm4yk9pwdccl
 - Fetch AI https://www.mintscan.io/fetchai/validators/fetchvaloper15ezxu92yg2eq6dynhfsnnnqc0nxc47yuxc0h82
