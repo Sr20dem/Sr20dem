@@ -4,7 +4,7 @@
 - Bitway https://ping.pub/bitway/staking/bitwayvaloper1qqx3gyg8rudpgrg0zu2s78swp5ds7rszpuyscqs4rvf3upsgpvdpsahdy4j
 - Cosmos https://www.mintscan.io/cosmos/validators/cosmosvaloper1zmgj4wx0ddgktmg9332f3szjsqlm4yk9pwdccl
 - Fetch AI https://www.mintscan.io/fetchai/validators/fetchvaloper15ezxu92yg2eq6dynhfsnnnqc0nxc47yuxc0h82
-- Lava https://explorer.stavr.tech/Lava-Mainnet/staking/lava@valoper1damtmsm2884lhvnpm47j9dj0y5qvl59vxh759k
+- Lumen https://explorer.chaintools.tech/lumen/staking/lmnvaloper16pnz9lncd8spn98crgu4lpnz785kc4pppppktm
 - Hippo https://explorer.nodestake.org/hippo/staking/hippovaloper1ycvn4t5zd62r3g8kxf0rrc0clucz50g34rc24d
 - Osmosis https://www.mintscan.io/osmosis/validators/osmovaloper1z424aqrtmletkpakgt67kl4fq68tewg22pz06a
 - Realio RIO https://explorer.realio.network/validators/realiovaloper1gza7q0ml8nwuuyddtusfsauuc7f934ywapz857
@@ -17,7 +17,7 @@
 
 ## Testnets:
 
-[Crowd Control](https://explorer.sr20de.xyz/Crowd%20Control%20testnet/staking/ccvaloper18nyh27lwp5dp8j396srrvq52hufeu9vst2fs7g) | [Hypersign](https://explorer.sr20de.xyz/Hypersign-testnet/staking/hidvaloper13qdlktc9klx6l2emx3gwjwc0g9x2lntezd3tqr) | [Arkeo](https://explorer.stavr.tech/Arkeo-testnet/staking/tarkeovaloper15lnerye4m2rue2zqc5n39et9ke0s99wjahf24c) | [0g](https://explorer.sr20de.xyz/0g-testnet/staking/0gvaloper1zthpgkcljwqyml6gpg278jddam08dz3nel3mxz) | [Blockx](https://exp.utsa.tech/blockx/staking/blockxvaloper1258yf40c75wc9wt7tk7anecsdn90fx6qf79pkr) | [Empeiria](https://testnet.ping.pub/empe/staking/empevaloper1s8jmngtcmpegzgtlgqkh2cpk36dv6z3ahyka98) | [Symphony](https://explorer.sr20de.xyz/symphony/staking/symphonyvaloper1m2g04dg8wqs8n4v508fqpma5s22ys2vkm0xef4) | [Odiseo](https://xplorer.vinjan.xyz/odiseo-testnet/staking/odiseovaloper1dufdcawseds7tcc737sw2q0xvhsxfaj3d99nr9) | [Cosmos](https://www.mintscan.io/ics-testnet-provider/validators/cosmosvaloper18r8lfft7z0nawdml4mk0d32ksglr8q626jre39)
+[Crowd Control](https://explorer.sr20de.xyz/Crowd%20Control%20testnet/staking/ccvaloper18nyh27lwp5dp8j396srrvq52hufeu9vst2fs7g) | | [Blockx](https://exp.utsa.tech/blockx/staking/blockxvaloper1258yf40c75wc9wt7tk7anecsdn90fx6qf79pkr) | [Empeiria](https://testnet.ping.pub/empe/staking/empevaloper1s8jmngtcmpegzgtlgqkh2cpk36dv6z3ahyka98) | [Symphony](https://explorer.sr20de.xyz/symphony/staking/symphonyvaloper1m2g04dg8wqs8n4v508fqpma5s22ys2vkm0xef4) | [Odiseo](https://explorer.vinjan-inc.com/odiseo-testnet/staking/odiseovaloper1dufdcawseds7tcc737sw2q0xvhsxfaj3d99nr9) | [Cosmos](https://www.mintscan.io/ics-testnet-provider/validators/cosmosvaloper18r8lfft7z0nawdml4mk0d32ksglr8q626jre39)
 ## IBC Relayers:  
 Here https://sr20de.xyz/ibc/
 
