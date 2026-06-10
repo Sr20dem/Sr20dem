@@ -9,7 +9,6 @@
 - Osmosis https://www.mintscan.io/osmosis/validators/osmovaloper1z424aqrtmletkpakgt67kl4fq68tewg22pz06a
 - Realio RIO https://explorer.realio.network/validators/realiovaloper1gza7q0ml8nwuuyddtusfsauuc7f934ywapz857
 - Realio DSTRX https://explorer.realio.network/validators/realiovaloper1d4xzwset25s2d9rhmrn3j4mumx0ty8lkyn5558
-- Symphony https://explorer.sr20de.xyz/symphony/staking/symphonyvaloper1m2g04dg8wqs8n4v508fqpma5s22ys2vkm0xef4
 - Uptick https://explorer.sr20de.xyz/uptick/staking/uptickvaloper1eddj4c9uh2l76llatzdtvmpdcq07lqdne6ufc0
 - Vara https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc.vara.network#/staking
 - Xion https://www.mintscan.io/xion/validators/xionvaloper1rj5vyd7jqcz24a0ewndug56ycxrfd4s9y5326v
@@ -17,7 +16,7 @@
 
 ## Testnets:
 
-[Crowd Control](https://explorer.sr20de.xyz/Crowd%20Control%20testnet/staking/ccvaloper18nyh27lwp5dp8j396srrvq52hufeu9vst2fs7g) | | [Blockx](https://exp.utsa.tech/blockx/staking/blockxvaloper1258yf40c75wc9wt7tk7anecsdn90fx6qf79pkr) | [Empeiria](https://testnet.ping.pub/empe/staking/empevaloper1s8jmngtcmpegzgtlgqkh2cpk36dv6z3ahyka98) | [Symphony](https://explorer.sr20de.xyz/symphony/staking/symphonyvaloper1m2g04dg8wqs8n4v508fqpma5s22ys2vkm0xef4) | [Odiseo](https://explorer.vinjan-inc.com/odiseo-testnet/staking/odiseovaloper1dufdcawseds7tcc737sw2q0xvhsxfaj3d99nr9) | [Cosmos](https://www.mintscan.io/ics-testnet-provider/validators/cosmosvaloper18r8lfft7z0nawdml4mk0d32ksglr8q626jre39)
+[Crowd Control](https://explorer.sr20de.xyz/Crowd%20Control%20testnet/staking/ccvaloper18nyh27lwp5dp8j396srrvq52hufeu9vst2fs7g) | | [Blockx](https://exp.utsa.tech/blockx/staking/blockxvaloper1258yf40c75wc9wt7tk7anecsdn90fx6qf79pkr) | [Empeiria](https://testnet.ping.pub/empe/staking/empevaloper1s8jmngtcmpegzgtlgqkh2cpk36dv6z3ahyka98) | [Odiseo](https://explorer.vinjan-inc.com/odiseo-testnet/staking/odiseovaloper1dufdcawseds7tcc737sw2q0xvhsxfaj3d99nr9) | [Cosmos](https://www.mintscan.io/ics-testnet-provider/validators/cosmosvaloper18r8lfft7z0nawdml4mk0d32ksglr8q626jre39)
 ## IBC Relayers:  
 Here https://sr20de.xyz/ibc/
 
